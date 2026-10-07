@@ -1,0 +1,4 @@
+cutouts/
+*.zip
+*.fits
+.ipynb_checkpoints/
