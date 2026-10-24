@@ -1,4 +1,13 @@
-cutouts/
-*.zip
+# large data - never commit these
+data/*
+!data/seed_hits.csv
+notebooks/zenodo/
+*.tar
+*.parquet
+*.npy
+*.npz
 *.fits
+*.fit
+*.fits.gz
+*.fz
 .ipynb_checkpoints/
